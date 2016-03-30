@@ -8,6 +8,7 @@
 
 	<name>srotya-parent</name>
 	<url>https://github.com/srotya/srotya-parent</url>
+	<description>Parent POM for Srotya</description>
 
 	<scm>
 		<url>https://github.com/srotya/srotya-parent.git</url>
