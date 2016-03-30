@@ -3,7 +3,7 @@
 
 	<groupId>com.srotya</groupId>
 	<artifactId>srotya-parent</artifactId>
-	<version>0.5.2</version>
+	<version>0.5.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>srotya-parent</name>
@@ -14,7 +14,7 @@
 		<url>https://github.com/srotya/srotya-parent.git</url>
 		<connection>scm:git:git@github.com:srotya/srotya-parent.git</connection>
 		<developerConnection>scm:git:git@github.com:srotya/srotya-parent.git</developerConnection>
-		<tag>srotya-parent-0.5.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<licenses>
