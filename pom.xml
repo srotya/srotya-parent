@@ -4,7 +4,7 @@
 	<groupId>com.srotya</groupId>
 	<artifactId>srotya-parent</artifactId>
 	<version>0.5.3-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>srotya-parent</name>
 	<url>https://github.com/srotya/srotya-parent</url>
