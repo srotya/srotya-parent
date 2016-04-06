@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.srotya</groupId>
   <artifactId>srotya-parent</artifactId>
-  <version>0.5.6-SNAPSHOT</version>
+  <version>0.5.6</version>
   <packaging>pom</packaging>
   <name>srotya-parent</name>
   <description>Parent POM for Srotya</description>
@@ -81,7 +81,7 @@
     <connection>scm:git:git@github.com:srotya/srotya-parent.git</connection>
     <developerConnection>scm:git:git@github.com:srotya/srotya-parent.git</developerConnection>
     <url>https://github.com/srotya/srotya-parent.git</url>
-    <tag>HEAD</tag>
+    <tag>srotya-parent-0.5.6</tag>
   </scm>
   <distributionManagement>
     <repository>
